@@ -24,10 +24,8 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Pre-Trained Video Generative Models as World Simulators</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Pre-Trained Video Generative Models as World Simulators</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -43,10 +41,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Pre-Trained Video Generative Models as World Simulators</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Pre-Trained Video Generative Models as World Simulators</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -62,10 +58,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -81,10 +75,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -100,10 +92,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -120,10 +110,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>IPO: Iterative Preference Optimization for Text-to-Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>IPO: Iterative Preference Optimization for Text-to-Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -139,10 +127,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>IPO: Iterative Preference Optimization for Text-to-Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>IPO: Iterative Preference Optimization for Text-to-Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -158,10 +144,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -180,10 +164,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -202,10 +184,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 40%;"><strong>Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -222,10 +202,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 40%;"><strong>Improving Video Generation with Human Feedback</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Improving Video Generation with Human Feedback</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -246,10 +224,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 40%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -268,10 +244,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 40%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -290,10 +264,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -310,10 +282,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -330,10 +300,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -350,10 +318,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -370,10 +336,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>VideoDPO: Omni-Preference Alignment for Video Diffusion Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>VideoDPO: Omni-Preference Alignment for Video Diffusion Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -390,10 +354,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -410,10 +372,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -431,10 +391,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 40%;"><strong>Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -452,10 +410,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 40%;"><strong>Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -472,10 +428,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 40%;"><strong>Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -492,10 +446,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 40%;"><strong>Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -512,10 +464,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 40%;"><strong>WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -531,10 +481,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 40%;"><strong>A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -550,10 +498,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>Video to Video Generative Adversarial Network for Few-shot Learning Based on Policy Gradient</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Video to Video Generative Adversarial Network for Few-shot Learning Based on Policy Gradient</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -569,10 +515,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>Animating the Past: Reconstruct Trilobite via Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Animating the Past: Reconstruct Trilobite via Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -588,10 +532,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>Animating the Past: Reconstruct Trilobite via Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Animating the Past: Reconstruct Trilobite via Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -607,10 +549,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>AVID: Adapting Video Diffusion Models to World Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>AVID: Adapting Video Diffusion Models to World Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -627,10 +567,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>VideoAgent: Self-Improving Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>VideoAgent: Self-Improving Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -647,10 +585,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>E-Motion: Future Motion Simulation via Event Sequence Diffusion</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>E-Motion: Future Motion Simulation via Event Sequence Diffusion</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -667,10 +603,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>SePPO: Semi-Policy Preference Optimization for Diffusion Alignment</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>SePPO: Semi-Policy Preference Optimization for Diffusion Alignment</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -687,10 +621,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 40%;"><strong>SePPO: Semi-Policy Preference Optimization for Diffusion Alignment</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>SePPO: Semi-Policy Preference Optimization for Diffusion Alignment</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -707,10 +639,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
-    <td style="width: 40%;"><strong>FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -728,10 +658,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Jul 2024</td>
-    <td style="width: 40%;"><strong>Video Diffusion Alignment via Reward Gradients</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Video Diffusion Alignment via Reward Gradients</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -748,10 +676,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">May 2024</td>
-    <td style="width: 40%;"><strong>SignLLM: Sign Language Production Large Language Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>SignLLM: Sign Language Production Large Language Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
@@ -770,10 +696,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
-    <td style="width: 40%;"><strong>RoboDreamer: Learning Compositional World Models for Robot Imagination</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>RoboDreamer: Learning Compositional World Models for Robot Imagination</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -790,10 +714,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2024</td>
-    <td style="width: 40%;"><strong>COMBO: Compositional World Models for Embodied Multi-Agent Cooperation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>COMBO: Compositional World Models for Embodied Multi-Agent Cooperation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -810,10 +732,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
-    <td style="width: 40%;"><strong>InstructVideo: Instructing Video Diffusion Models with Human Feedback</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>InstructVideo: Instructing Video Diffusion Models with Human Feedback</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -830,10 +750,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2023</td>
-    <td style="width: 40%;"><strong>AdaDiff: Adaptive Step Selection for Fast Diffusion Models</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>AdaDiff: Adaptive Step Selection for Fast Diffusion Models</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -849,10 +767,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">May 2023</td>
-    <td style="width: 40%;"><strong>Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -869,10 +785,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2023</td>
-    <td style="width: 40%;"><strong>Learning Universal Policies via Text-Guided Video Generation</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Learning Universal Policies via Text-Guided Video Generation</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -889,10 +803,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2022</td>
-    <td style="width: 40%;"><strong>MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
     </td>
     <td style="width: 15%;">
@@ -909,10 +821,8 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2022</td>
-    <td style="width: 40%;"><strong>Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method</strong></td>
-    <td style="width: 15%;">
-    </td>
-    <td style="width: 15%;">
+    <td style="width: 70%;"><strong>Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method</strong></td>
+<td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
