@@ -35,7 +35,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Hong Kong University of Science and Technology<br>
-      • Method Name: Dynamic World Simulation (DWS), Base Model: Open-Sora, Strategy: PPO<br>
+      • Method Name: Dynamic World Simulation (DWS), Base Model: , Strategy: PPO<br>
     </td>
   </tr>
 
@@ -52,42 +52,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Carnegie Mellon University<br>
-      • Method Name: HALO, Base Model: , Strategy: Gran-DPO<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.06812"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Method Name: HALO, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.04296"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://liruiw.github.io/hma"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: MIT<br>
-      • Method Name: Heterogeneous Masked Autoregression, Base Model: , Strategy: <br>
+      • Method Name: HALO, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -103,25 +68,8 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Fudan University<br>
-      • Method Name: Iterative Preference Optimization (IPO), Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>IPO: Iterative Preference Optimization for Text-to-Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.02088"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Fudan University<br>
-      • Method Name: Iterative Preference Optimization (IPO), Base Model: CogVideoX-2B, Strategy: Reinforcement Learning<br>
+      • Affiliation: Shanghai Academy of Artificial Intelligence for Science<br>
+      • Method Name: Iterative Preference Optimization (IPO), Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -140,104 +88,25 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: UNC-Chapel Hill<br>
-      • Method Name: MJ-VIDEO, Base Model: InternVL2-2B, Strategy: <br>
       • Benchmark Name: MJ-BENCH-VIDEO, Data Number: 5421, Evaluation Metric: <br>
     </td>
   </tr>
 
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer</strong></td>
+    <td style="width: 70%;"><strong>HuViDPO:Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.00639"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/RTkenny/RLR-Opimtizer"><img src="https://img.shields.io/github/stars/RTkenny/RLR-Opimtizer.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2502.01690"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://tankowa.github.io/HuViDPO"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Guanghua School of Management, Peking University<br>
-      • Method Name: Recursive Likelihood Ratio (RLR) optimizer, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 70%;"><strong>Improving Video Generation with Human Feedback</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2501.13918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://gongyeliu.github.io/videoalign"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: The Chinese University of Hong Kong<br>
-      • Method Name: Flow-DPO, Base Model: , Strategy: <br>
-      • Method Name: Flow-RWR, Base Model: , Strategy: <br>
-      • Method Name: Flow-NRG, Base Model: , Strategy: <br>
-      • Benchmark Name: VideoGen-RewardBench, Data Number: 26500, Evaluation Metric: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 70%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2501.09781"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://VideoWorld.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Beijing Jiaotong University<br>
-      • Method Name: VideoWorld, Base Model: , Strategy: <br>
-      • Benchmark Name: Video-GoBench, Data Number: 10 million, Evaluation Metric: Legal rate, Game playing strength (Elo), Action accuracy, Action-Value<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 70%;"><strong>VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.21059"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/THUDM/VisionReward"><img src="https://img.shields.io/github/stars/THUDM/VisionReward.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Tsinghua University<br>
-      • Method Name: VisionReward, Base Model: CogVLM2, Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 70%;"><strong>DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.15689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://quantumiracle.github.io/dollar/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Princeton University<br>
-      • Method Name: DOLLAR, Base Model: , Strategy: <br>
+      • Affiliation: Zhejiang University<br>
+      • Method Name: HuViDPO, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -261,24 +130,6 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 70%;"><strong>OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.15159"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://onlinevpo.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: The University of Hong Kong<br>
-      • Method Name: OnlineVPO, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2024</td>
     <td style="width: 70%;"><strong>VideoDPO: Omni-Preference Alignment for Video Diffusion Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
@@ -291,25 +142,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: HKUST<br>
-      • Method Name: VideoDPO, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 70%;"><strong>FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.08261"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://nus-lins-lab.github.io/flipweb/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: National University of Singapore<br>
-      • Method Name: FLIP, Base Model: , Strategy: <br>
+      • Method Name: VideoDPO, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -326,9 +159,8 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Google DeepMind<br>
-      • Method Name: RL-Finetuning, Base Model: , Strategy: RWR<br>
-      • Method Name: RL-Finetuning, Base Model: , Strategy: DPO<br>
+      • Affiliation: The University of Tokyo<br>
+      • Method Name: RL-Finetuning for Text-to-Video Models, Base Model: , Strategy: RWR, DPO<br>
     </td>
   </tr>
 
@@ -346,76 +178,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Kim Jaechul Graduate School of AI, KAIST<br>
-      • Method Name: Free2Guide, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 70%;"><strong>Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.11343"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://qinglongcao.xyz/TVML-Diffusion.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Shanghai Jiao Tong University<br>
-      • Method Name: Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 70%;"><strong>WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.05619"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China<br>
-      • Method Name: WHALE, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 70%;"><strong>A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.04942"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: The Chinese University of Hong Kong, Shenzhen<br>
-      • Method Name: RL-based editing framework, Base Model: , Strategy: actor-critic<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>Video to Video Generative Adversarial Network for Few-shot Learning Based on Policy Gradient</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.20657"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Northwestern University<br>
-      • Method Name: RL-V2V-GAN, Base Model: , Strategy: Policy Gradient<br>
+      • Method Name: Free2Guide, Base Model: , Strategy: Path Integral Control<br>
     </td>
   </tr>
 
@@ -432,61 +195,25 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: AI Lab, Yishi Inc.<br>
-      • Method Name: automatic T2V prompt learning method, Base Model: , Strategy: PPO<br>
+      • Method Name: Automatic T2V Prompt Learning Method, Base Model: , Strategy: KTO<br>
     </td>
   </tr>
 
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>AVID: Adapting Video Diffusion Models to World Models</strong></td>
+    <td style="width: 70%;"><strong>DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
     </td>
     <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.12822"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/microsoft/causica/tree/main/research_experiments/avid"><img src="https://img.shields.io/github/stars/research_experiments/avid.svg?style=social&label=Star"></a><br>
+      <a href="https://arxiv.org/pdf/2410.05260"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://zkf1997.github.io/DART/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
     </td>
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: Microsoft Research, Cambridge UK<br>
-      • Method Name: AVID, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>VideoAgent: Self-Improving Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.10076"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://video-as-agent.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Waterloo<br>
-      • Method Name: VideoAgent, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>E-Motion: Future Motion Simulation via Event Sequence Diffusion</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.08649"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/p4r4mount/E-Motion"><img src="https://img.shields.io/github/stars/p4r4mount/E-Motion.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Xidian University<br>
-      • Method Name: Event-Sequence Diffusion Network, Base Model: , Strategy: PPO<br>
+      • Affiliation: ETH Zürich<br>
+      • Method Name: DART, Base Model: , Strategy: PPO<br>
     </td>
   </tr>
 
@@ -504,100 +231,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: University of Rochester<br>
-      • Method Name: SePPO, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jul 2024</td>
-    <td style="width: 70%;"><strong>FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.19453"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/vpx-ecnu/FIND-website"><img src="https://img.shields.io/github/stars/vpx-ecnu/FIND-website.svg?style=social&label=Star"></a><br>
-      <a href="https://github.com/vpx-ecnu/FIND-website"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: East China Normal University<br>
-      • Method Name: FIND, Base Model: , Strategy: policy optimization<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jul 2024</td>
-    <td style="width: 70%;"><strong>Video Diffusion Alignment via Reward Gradients</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2407.08737"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://vader-vid.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Carnegie Mellon University<br>
-      • Method Name: VADER, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">May 2024</td>
-    <td style="width: 70%;"><strong>SignLLM: Sign Language Production Large Language Models</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2405.10718"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://signllm.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Rutgers University<br>
-      • Method Name: SIGNLLM, Base Model: , Strategy: <br>
-      • Benchmark Name: PROMPT2SIGN, Data Number: , Evaluation Metric: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Apr 2024</td>
-    <td style="width: 70%;"><strong>RoboDreamer: Learning Compositional World Models for Robot Imagination</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.12377"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://robovideo.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Hong Kong University of Science and Technology<br>
-      • Method Name: RoboDreamer, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Apr 2024</td>
-    <td style="width: 70%;"><strong>COMBO: Compositional World Models for Embodied Multi-Agent Cooperation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2404.10775"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://vis-www.cs.umass.edu/combo/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Massachusetts Amherst<br>
-      • Method Name: COMBO, Base Model: T5-XXL, Strategy: <br>
+      • Method Name: SePPO, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -615,7 +249,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Zhejiang University<br>
-      • Method Name: InstructVideo, Base Model: , Strategy: <br>
+      • Method Name: InstructVideo, Base Model: , Strategy: reward fine-tuning<br>
     </td>
   </tr>
 
@@ -633,60 +267,6 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
       • Method Name: AdaDiff, Base Model: , Strategy: policy gradient<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">May 2023</td>
-    <td style="width: 70%;"><strong>Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2305.13840"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://controlavideo.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Zhejiang University<br>
-      • Method Name: Control-A-Video, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2023</td>
-    <td style="width: 70%;"><strong>Learning Universal Policies via Text-Guided Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2302.00111"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://universal-policy.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: MIT<br>
-      • Method Name: UniPi, Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Apr 2022</td>
-    <td style="width: 70%;"><strong>MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2204.08058"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://mugen-org.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Meta AI Research<br>
-      • Benchmark Name: MUGEN, Data Number: 375K, Evaluation Metric: FVD<br>
     </td>
   </tr>
 
