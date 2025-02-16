@@ -418,6 +418,24 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
 
   <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2024</td>
+    <td style="width: 70%;"><strong>Video Diffusion Alignment via Reward Gradients</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2407.08737"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vader-vid.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Method Name: VADER, Base Model: , Strategy: Reward Gradients<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Dec 2023</td>
     <td style="width: 70%;"><strong>InstructVideo: Instructing Video Diffusion Models with Human Feedback</strong></td>
 <td style="width: 15%;">
@@ -449,6 +467,40 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
       • Method Name: AdaDiff, Base Model: , Strategy: policy gradient<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2023</td>
+    <td style="width: 70%;"><strong>ExWarp: Extrapolation and Warping-based Temporal Supersampling for High-frequency Displays</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2307.12607"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Indian Institute of Technology<br>
+      • Method Name: ExWarp, Base Model: , Strategy: Reinforcement Learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2022</td>
+    <td style="width: 70%;"><strong>Physically Plausible Animation of Human Upper Body from a Single Image</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="https://arxiv.org/pdf/2212.04741"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National Taiwan University<br>
+      • Method Name: Physically plausible Upper Body Animation (PUBA), Base Model: , Strategy: PPO<br>
     </td>
   </tr>
 
