@@ -35,24 +35,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Hong Kong University of Science and Technology<br>
-      • Method Name: [{'method_name': 'Dynamic World Simulation (DWS)', 'base_model': 'Open-Sora', 'strategy': 'PPO'}], Base Model: Open-Sora, Strategy: PPO<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>Pre-Trained Video Generative Models as World Simulators</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.07825"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Hong Kong University of Science and Technology<br>
-      • Method Name: [{'method_name': 'Dynamic World Simulation (DWS)', 'base_model': 'Open-Sora', 'strategy': 'PPO'}], Base Model: Open-Sora, Strategy: PPO<br>
+      • Method Name: Dynamic World Simulation (DWS), Base Model: Open-Sora, Strategy: PPO<br>
     </td>
   </tr>
 
@@ -69,7 +52,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Carnegie Mellon University<br>
-      • Method Name: [{'method_name': 'HALO', 'base_model': '', 'strategy': 'Gran-DPO'}], Base Model: , Strategy: Gran-DPO<br>
+      • Method Name: HALO, Base Model: , Strategy: Gran-DPO<br>
     </td>
   </tr>
 
@@ -86,7 +69,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Carnegie Mellon University<br>
-      • Method Name: [{'method_name': 'HALO', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: HALO, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -104,7 +87,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: MIT<br>
-      • Method Name: [{'method_name': 'Heterogeneous Masked Autoregression', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Heterogeneous Masked Autoregression, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -121,7 +104,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Fudan University<br>
-      • Method Name: [{'method_name': 'Iterative Preference Optimization (IPO)', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Iterative Preference Optimization (IPO), Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -138,7 +121,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Fudan University<br>
-      • Method Name: [{'method_name': 'Iterative Preference Optimization (IPO)', 'base_model': 'CogVideoX-2B', 'strategy': 'Reinforcement Learning'}], Base Model: CogVideoX-2B, Strategy: Reinforcement Learning<br>
+      • Method Name: Iterative Preference Optimization (IPO), Base Model: CogVideoX-2B, Strategy: Reinforcement Learning<br>
     </td>
   </tr>
 
@@ -157,27 +140,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: UNC-Chapel Hill<br>
-      • Method Name: [{'method_name': 'MJ-VIDEO', 'base_model': 'InternVL2-2B', 'strategy': ''}], Base Model: InternVL2-2B, Strategy: <br>
-      • Benchmark Name: MJ-BENCH-VIDEO, Data Number: 5421, Evaluation Metric: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Feb 2025</td>
-    <td style="width: 70%;"><strong>MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2502.01719"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://aiming-lab.github.io/MJ-VIDEO.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: UNC-Chapel Hill<br>
-      • Method Name: [{'method_name': 'MJ-VIDEO', 'base_model': 'InternVL2-2B', 'strategy': ''}], Base Model: InternVL2-2B, Strategy: <br>
+      • Method Name: MJ-VIDEO, Base Model: InternVL2-2B, Strategy: <br>
       • Benchmark Name: MJ-BENCH-VIDEO, Data Number: 5421, Evaluation Metric: <br>
     </td>
   </tr>
@@ -196,7 +159,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Guanghua School of Management, Peking University<br>
-      • Method Name: [{'method_name': 'Recursive Likelihood Ratio (RLR) optimizer', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Recursive Likelihood Ratio (RLR) optimizer, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -215,9 +178,9 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: The Chinese University of Hong Kong<br>
-      • Method Name: [{'method_name': 'Flow-DPO', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-RWR', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-NRG', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
-      • Method Name: [{'method_name': 'Flow-DPO', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-RWR', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-NRG', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
-      • Method Name: [{'method_name': 'Flow-DPO', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-RWR', 'base_model': '', 'strategy': ''}, {'method_name': 'Flow-NRG', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Flow-DPO, Base Model: , Strategy: <br>
+      • Method Name: Flow-RWR, Base Model: , Strategy: <br>
+      • Method Name: Flow-NRG, Base Model: , Strategy: <br>
       • Benchmark Name: VideoGen-RewardBench, Data Number: 26500, Evaluation Metric: <br>
     </td>
   </tr>
@@ -237,27 +200,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Beijing Jiaotong University<br>
-      • Method Name: [{'method_name': 'VideoWorld', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
-      • Benchmark Name: Video-GoBench, Data Number: 10 million, Evaluation Metric: Legal rate, Game playing strength (Elo), Action accuracy, Action-Value<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jan 2025</td>
-    <td style="width: 70%;"><strong>VideoWorld: Exploring Knowledge Learning from Unlabeled Videos</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2501.09781"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://VideoWorld.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Beijing Jiaotong University<br>
-      • Method Name: [{'method_name': 'VideoWorld', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: VideoWorld, Base Model: , Strategy: <br>
       • Benchmark Name: Video-GoBench, Data Number: 10 million, Evaluation Metric: Legal rate, Game playing strength (Elo), Action accuracy, Action-Value<br>
     </td>
   </tr>
@@ -276,7 +219,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Tsinghua University<br>
-      • Method Name: [{'method_name': 'VisionReward', 'base_model': 'CogVLM2', 'strategy': ''}], Base Model: CogVLM2, Strategy: <br>
+      • Method Name: VisionReward, Base Model: CogVLM2, Strategy: <br>
     </td>
   </tr>
 
@@ -294,7 +237,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Princeton University<br>
-      • Method Name: [{'method_name': 'DOLLAR', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: DOLLAR, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -312,7 +255,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: The University of Hong Kong<br>
-      • Method Name: [{'method_name': 'OnlineVPO', 'base_model': '', 'strategy': 'DPO'}], Base Model: , Strategy: DPO<br>
+      • Method Name: OnlineVPO, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -330,7 +273,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: The University of Hong Kong<br>
-      • Method Name: [{'method_name': 'OnlineVPO', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: OnlineVPO, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -348,7 +291,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: HKUST<br>
-      • Method Name: [{'method_name': 'VideoDPO', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: VideoDPO, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -366,7 +309,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: National University of Singapore<br>
-      • Method Name: [{'method_name': 'FLIP', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: FLIP, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -384,27 +327,8 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Google DeepMind<br>
-      • Method Name: [{'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'RWR'}, {'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'DPO'}], Base Model: , Strategy: RWR<br>
-      • Method Name: [{'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'RWR'}, {'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'DPO'}], Base Model: , Strategy: DPO<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2024</td>
-    <td style="width: 70%;"><strong>Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2412.02617"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://sites.google.com/view/aif-dynamic-t2v/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Google DeepMind<br>
-      • Method Name: [{'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'RWR'}, {'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'DPO'}], Base Model: , Strategy: RWR<br>
-      • Method Name: [{'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'RWR'}, {'method_name': 'RL-Finetuning', 'base_model': '', 'strategy': 'DPO'}], Base Model: , Strategy: DPO<br>
+      • Method Name: RL-Finetuning, Base Model: , Strategy: RWR<br>
+      • Method Name: RL-Finetuning, Base Model: , Strategy: DPO<br>
     </td>
   </tr>
 
@@ -422,25 +346,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Kim Jaechul Graduate School of AI, KAIST<br>
-      • Method Name: [{'method_name': 'Free2Guide', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Nov 2024</td>
-    <td style="width: 70%;"><strong>Free$^2$Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2411.17041"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://kjm981995.github.io/free2guide/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Kim Jaechul Graduate School of AI, KAIST<br>
-      • Method Name: [{'method_name': 'Free2Guide', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Free2Guide, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -458,7 +364,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Shanghai Jiao Tong University<br>
-      • Method Name: [{'method_name': 'Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -475,7 +381,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China<br>
-      • Method Name: [{'method_name': 'WHALE', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: WHALE, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -492,7 +398,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: The Chinese University of Hong Kong, Shenzhen<br>
-      • Method Name: [{'method_name': 'RL-based editing framework', 'base_model': '', 'strategy': 'actor-critic'}], Base Model: , Strategy: actor-critic<br>
+      • Method Name: RL-based editing framework, Base Model: , Strategy: actor-critic<br>
     </td>
   </tr>
 
@@ -509,7 +415,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Northwestern University<br>
-      • Method Name: [{'method_name': 'RL-V2V-GAN', 'base_model': '', 'strategy': 'Policy Gradient'}], Base Model: , Strategy: Policy Gradient<br>
+      • Method Name: RL-V2V-GAN, Base Model: , Strategy: Policy Gradient<br>
     </td>
   </tr>
 
@@ -526,24 +432,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: AI Lab, Yishi Inc.<br>
-      • Method Name: [{'method_name': 'automatic T2V prompt learning method', 'base_model': '', 'strategy': 'PPO'}], Base Model: , Strategy: PPO<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>Animating the Past: Reconstruct Trilobite via Video Generation</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.14715"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: AI Lab, Yishi Inc.<br>
-      • Method Name: [{'method_name': 'automatic T2V prompt learning method', 'base_model': '', 'strategy': 'PPO'}], Base Model: , Strategy: PPO<br>
+      • Method Name: automatic T2V prompt learning method, Base Model: , Strategy: PPO<br>
     </td>
   </tr>
 
@@ -561,7 +450,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Microsoft Research, Cambridge UK<br>
-      • Method Name: [{'method_name': 'AVID', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: AVID, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -579,7 +468,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: University of Waterloo<br>
-      • Method Name: [{'method_name': 'VideoAgent', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: VideoAgent, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -597,7 +486,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Xidian University<br>
-      • Method Name: [{'method_name': 'Event-Sequence Diffusion Network', 'base_model': '', 'strategy': 'PPO'}], Base Model: , Strategy: PPO<br>
+      • Method Name: Event-Sequence Diffusion Network, Base Model: , Strategy: PPO<br>
     </td>
   </tr>
 
@@ -615,25 +504,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: University of Rochester<br>
-      • Method Name: [{'method_name': 'SePPO', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Oct 2024</td>
-    <td style="width: 70%;"><strong>SePPO: Semi-Policy Preference Optimization for Diffusion Alignment</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2410.05255"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://github.com/DwanZhang-AI/SePPO"><img src="https://img.shields.io/github/stars/DwanZhang-AI/SePPO.svg?style=social&label=Star"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: University of Rochester<br>
-      • Method Name: [{'method_name': 'SePPO', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: SePPO, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -652,7 +523,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: East China Normal University<br>
-      • Method Name: [{'method_name': 'FIND', 'strategy': 'policy optimization'}], Base Model: , Strategy: policy optimization<br>
+      • Method Name: FIND, Base Model: , Strategy: policy optimization<br>
     </td>
   </tr>
 
@@ -670,7 +541,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Carnegie Mellon University<br>
-      • Method Name: [{'method_name': 'VADER', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: VADER, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -689,7 +560,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Rutgers University<br>
-      • Method Name: [{'method_name': 'SIGNLLM', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: SIGNLLM, Base Model: , Strategy: <br>
       • Benchmark Name: PROMPT2SIGN, Data Number: , Evaluation Metric: <br>
     </td>
   </tr>
@@ -708,7 +579,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Hong Kong University of Science and Technology<br>
-      • Method Name: [{'method_name': 'RoboDreamer', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: RoboDreamer, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -726,7 +597,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: University of Massachusetts Amherst<br>
-      • Method Name: [{'method_name': 'COMBO', 'base_model': 'T5-XXL', 'strategy': ''}], Base Model: T5-XXL, Strategy: <br>
+      • Method Name: COMBO, Base Model: T5-XXL, Strategy: <br>
     </td>
   </tr>
 
@@ -744,7 +615,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Zhejiang University<br>
-      • Method Name: [{'method_name': 'InstructVideo', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: InstructVideo, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -761,7 +632,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
-      • Method Name: [{'method_name': 'AdaDiff', 'strategy': 'policy gradient'}], Base Model: , Strategy: policy gradient<br>
+      • Method Name: AdaDiff, Base Model: , Strategy: policy gradient<br>
     </td>
   </tr>
 
@@ -779,7 +650,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Zhejiang University<br>
-      • Method Name: [{'method_name': 'Control-A-Video', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: Control-A-Video, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -797,7 +668,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: MIT<br>
-      • Method Name: [{'method_name': 'UniPi', 'base_model': '', 'strategy': ''}], Base Model: , Strategy: <br>
+      • Method Name: UniPi, Base Model: , Strategy: <br>
     </td>
   </tr>
 
@@ -833,7 +704,7 @@ We are committed to offering researchers the latest advancements in the field. B
   <tr>
     <td colspan="4">
       • Affiliation: Universidade Federal de Minas Gerais<br>
-      • Method Name: [{'method_name': 'Skip-Aware Fast-Forwarding Agent (SAFFA)', 'base_model': '', 'strategy': 'REINFORCE'}], Base Model: , Strategy: REINFORCE<br>
+      • Method Name: Skip-Aware Fast-Forwarding Agent (SAFFA), Base Model: , Strategy: REINFORCE<br>
     </td>
   </tr>
 </table>
