@@ -394,7 +394,7 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td colspan="4">
-      • Affiliation: ETH Zürich<br>
+      • Affiliation: ETH Z__rich<br>
       • Method Name: DART, Base Model: , Strategy: PPO<br>
     </td>
   </tr>
@@ -467,58 +467,6 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
       • Method Name: AdaDiff, Base Model: , Strategy: policy gradient<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Jul 2023</td>
-    <td style="width: 70%;"><strong>ExWarp: Extrapolation and Warping-based Temporal Supersampling for High-frequency Displays</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2307.12607"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Indian Institute of Technology<br>
-      • Method Name: ExWarp, Base Model: , Strategy: Reinforcement Learning<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Dec 2022</td>
-    <td style="width: 70%;"><strong>Physically Plausible Animation of Human Upper Body from a Single Image</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2212.04741"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: National Taiwan University<br>
-      • Method Name: Physically plausible Upper Body Animation (PUBA), Base Model: , Strategy: PPO<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td rowspan="2" style="width: 15%;">Mar 2022</td>
-    <td style="width: 70%;"><strong>Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method</strong></td>
-<td style="width: 15%;">
-      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
-    </td>
-    <td style="width: 15%;">
-      <a href="https://arxiv.org/pdf/2203.15778"><img src="https://img.shields.io/badge/Paper-red"></a><br>
-      <a href="https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/tpami2022/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      • Affiliation: Universidade Federal de Minas Gerais<br>
-      • Method Name: Skip-Aware Fast-Forwarding Agent (SAFFA), Base Model: , Strategy: REINFORCE<br>
     </td>
   </tr>
 </table>
