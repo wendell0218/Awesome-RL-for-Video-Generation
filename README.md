@@ -395,6 +395,41 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2025</td>
+    <td style="width: 70%;"><strong>Discriminator-Free Direct Preference Optimization for Video Diffusion</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2504.08542"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: Discriminator-Free Video Preference Optimization (DF-VPO), Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2025</td>
+    <td style="width: 70%;"><strong>Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2504.02918"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://physics-from-video.github.io/morpheus-bench/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Trento, Italy<br>
+      • Benchmark Name: Morpheus, Data Number: 80, Evaluation Metric: Dynamical Score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2025</td>
     <td style="width: 70%;"><strong>OmniCam: Unified Multimodal Video Generation via Camera Control</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
@@ -445,6 +480,62 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: The University of Hong Kong<br>
       • Method Name: Physics-based HOI Refinement, Base Model: , Strategy: Actor-Critic with Gaussian Policy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 70%;"><strong>Judge Anything: MLLM as a Judge Across Any Modality</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2503.17489"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://urrealhero.github.io/judgeanythingweb/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huazhong University of Science and Technology<br>
+      • Benchmark Name: TASKANYTHING, Data Number: 1500, Evaluation Metric: <br>
+      • Benchmark Name: JUDGE ANYTHING, Data Number: 9000, Evaluation Metric: Agreement, Pearson correlation, Spearman correlation, MAE, Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 70%;"><strong>MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2503.12689"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://echopluto.github.io/MagicID-project/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: MagicID, Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2025</td>
+    <td style="width: 70%;"><strong>Unified Reward Model for Multimodal Understanding and Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2503.05236"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/codegoat24/UnifiedReward"><img src="https://img.shields.io/github/stars/codegoat24/UnifiedReward.svg?style=social&label=Star"></a><br>
+      <a href="https://codegoat24.github.io/UnifiedReward/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: UnifiedReward, Base Model: LLaVA-OneVision-7B, Strategy: DPO<br>
     </td>
   </tr>
 
