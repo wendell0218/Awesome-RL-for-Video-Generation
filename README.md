@@ -6,7 +6,7 @@ Welcome to the GitHub repository for **Awesome-RL-for-Video-Generation**! This r
 
 ## 🔥 News
 
-- **[February 14, 2025]** We have developed an agent that automatically collects and analyzes the latest papers in the RL-based Video Generation field. It will update the [Related Papers](#-related-papers) daily at 0:30 AM UTC+8.
+- **[February 14, 2025]** We have developed an agent that automatically collects and analyzes the latest papers in the RL-based Video Generation field. It will update the [Related Papers](#-related-papers) daily at 1:00 AM UTC+8.
 
 
 ## 🔍 Related Papers
