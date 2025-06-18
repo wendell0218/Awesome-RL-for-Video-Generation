@@ -24,6 +24,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
+    <td style="width: 70%;"><strong>Toward Rich Video Human-Motion2D Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2506.14428"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/FooAuto/Toward-Rich-Video-Human-Motion2D-Generation"><img src="https://img.shields.io/github/stars/FooAuto/Toward-Rich-Video-Human-Motion2D-Generation.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tongji University<br>
+      • Method Name: RVHM2D, Base Model: None, Strategy: Fine-tuning with an FID-based reward<br>
+      • Benchmark Name: Motion2D-Video-150K, Data Number: 150000, Evaluation Metric: R-Precision, FID, MM Dist, Diversity<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 70%;"><strong>AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
