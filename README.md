@@ -23,6 +23,58 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.03905"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/aigc-apps/VideoX-Fun"><img src="https://img.shields.io/github/stars/aigc-apps/VideoX-Fun.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Terminal Technology Department, Alipay, Ant Group<br>
+      • Method Name: EchoMimicV3, Base Model: Wan2.1-FUN-inp-480p-1.3B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.03905"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Terminal Technology Department, Alipay, Ant Group<br>
+      • Method Name: EchoMimicV3, Base Model: Wan2.1-FUN-inp-480p-1.3B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>LongAnimation: Long Animation Generation with Dynamic Global-Local Memory</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.01945"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Method Name: LongAnimation, Base Model: CogVideoX-1.5-5B, Strategy: NGR<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jun 2025</td>
     <td style="width: 70%;"><strong>Video Perception Models for 3D Scene Synthesis</strong></td>
 <td style="width: 15%;">
