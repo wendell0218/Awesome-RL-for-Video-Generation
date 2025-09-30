@@ -23,6 +23,1172 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Visual Jigsaw Post-Training Improves MLLMs</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25190"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://penghao-wu.github.io/visual_jigsaw/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: S-Lab, Nanyang Technological University<br>
+      • Method Name: Visual Jigsaw, Base Model: Qwen2.5-VL-7B-Instruct, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25187"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://pku-yuangroup.github.io/FlashI2V/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University, Shenzhen Graduate School<br>
+      • Method Name: FlashI2V, Base Model: , Strategy: Flow Matching (FM) with Fourier-Guided Latent Shifting<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24948"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Computer Science and Engineering, Sun Yat-sen University, China<br>
+      • Method Name: World-Env, Base Model: OpenVLA-OFT, Strategy: PPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Fidelity-Aware Data Composition for Robust Robot Generalization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24797"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UCAS-Terminus AI Lab, University of Chinese Academy of Sciences<br>
+      • Method Name: Coherent Information Fidelity Tuning (CIFT), Base Model: Cosmos-Predict2-2B-Video2World, Strategy: Feature-Space Signal-to-Noise Ratio optimization for data composition<br>
+      • Method Name: Multi-View Video Augmentation (MV Aug), Base Model: Cosmos-Predict2-2B-Video2World, Strategy: Latent diffusion transformer with periodic cross-view attention for video-to-video synthesis<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24709"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/L-O-I/IWR-Bench"><img src="https://img.shields.io/github/stars/L-O-I/IWR-Bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Lab, Zhejiang University<br>
+      • Benchmark Name: IWR-Bench, Data Number: 113, Evaluation Metric: Interactive Functionality Score (IFS) and Visual Fidelity Score (VFS)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24640"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://huggingface.co/datasets/prokajevo/splice-benchmark"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany<br>
+      • Benchmark Name: SPLICE, Data Number: 3381, Evaluation Metric: Binary Accuracy, Hamming Accuracy, Longest Common Subsequence, Edit Distance<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24591"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://haozhuo-zhang.github.io/PoseDiff-project-page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Manchester<br>
+      • Method Name: PoseDiff, Base Model: , Strategy: DDPM (Denoising Diffusion Probabilistic Model)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>NeMo: Needle in a Montage for Video-Language Understanding</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24563"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://lavi-lab.github.io/NeMoBench/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Chinese University of Hong Kong<br>
+      • Benchmark Name: NeMoBench, Data Number: 31,378, Evaluation Metric: Recall@1x, tIoU=0.7, Recall@1x, tIoU=0.5, Average mAP<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Training Agents Inside of Scalable World Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24527"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="danijar.com/dreamer4"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind<br>
+      • Method Name: Dreamer 4, Base Model: , Strategy: PMPO (Preference optimization as probabilistic inference) with task-conditioned policy and reward modeling<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Rethinking JEPA: Compute-Efficient Video SSL with Frozen Teachers</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.24317"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Apple<br>
+      • Method Name: SALT (Static-teacher Asymmetric Latent Training), Base Model: , Strategy: Two-stage self-supervised learning with frozen teacher for video representation learning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Reinforcement Learning with Inverse Rewards for World Model Post-training</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23958"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft Research<br>
+      • Method Name: Reinforcement Learning with Inverse Rewards (RLIR), Base Model: , Strategy: Group Relative Policy Optimization (GRPO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>AssemblyHands-X: Modeling 3D Hand-Body Coordination for Understanding Bimanual Human Activities</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23888"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Tokyo, Tokyo, Japan<br>
+      • Benchmark Name: AssemblyHands-X, Data Number: , Evaluation Metric: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>ReWatch-R1: Boosting Complex Video Reasoning in Large Vision-Language Models through Agentic Data Synthesis</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23652"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba Group<br>
+      • Method Name: ReWatch-R1, Base Model: Qwen2.5-VL-7B, Strategy: GRPO (Group Relative Policy Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.23402"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://wm-research.github.io/worldsplat/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nankai University<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>VideoScore2: Think before You Score in Generative Video Evaluation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22799"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://TIGER-AI-Lab.github.io/VideoScore2/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
+      • Method Name: VIDEOSCORE2, Base Model: Qwen2.5-VL-7B-Instruct, Strategy: Group Relative Policy Optimization (GRPO)<br>
+      • Benchmark Name: VIDEOSCORE-BENCH-V2, Data Number: 500, Evaluation Metric: Accuracy, Relaxed Accuracy, PLCC<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22646"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://deeptracereward.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Princeton University<br>
+      • Benchmark Name: DEEPTRACEREWARD, Data Number: 4334, Evaluation Metric: Accuracy, Explanation score, BBox IoU, BBox Distance, Time Distance<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>WoW: Towards a World omniscient World model Through Embodied Interaction</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.22642"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="wow-world-model.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Innovation Center of Humanoid Robotics<br>
+      • Method Name: WoW, Base Model: Cosmos2, Strategy: GRPO<br>
+      • Method Name: SOPHIA, Base Model: , Strategy: Self-optimizing framework with critic-refiner loop<br>
+      • Benchmark Name: WoWBench, Data Number: 606, Evaluation Metric: FVD, SSIM, PSNR, DINO, Dreamsim, Mask-guided Regional Consistency, Instruction Understanding, Physical common sense, Planning and Task Decomposition<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Drag4D: Align Your Motion with Text-Driven 3D Scene Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21888"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: KAIST<br>
+      • Method Name: Local-Global DragAnything, Base Model: , Strategy: Motion-conditioned video diffusion with part-augmented trajectory guidance<br>
+      • Benchmark Name: Drag4D-30, Data Number: 30, Evaluation Metric: CLIP-Score, Sharp, Colorful, Quality, PSNR, SSIM<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21887"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://stabledub.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: nan<br>
+      • Method Name: StableDub, Base Model: , Strategy: Diffusion-based visual dubbing with lip-habit-modulated mechanism and occlusion-aware training strategy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>DiTraj: training-free trajectory control for video diffusion transformer</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21839"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://xduzhangjiayu.github.io/DiTraj_Project_Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing University of Posts and Telecommunications<br>
+      • Method Name: DiTraj, Base Model: Wan2.1, CogVideoX, Strategy: Foreground-background separation guidance and STD-RoPE position embedding modification<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Can AI Perceive Physical Danger and Intervene?</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21651"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://asimov-benchmark.github.io/v2"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Google DeepMind Robotics<br>
+      • Benchmark Name: ASIMOV-2.0, Data Number: 319, Evaluation Metric: Latent risk accuracy, Latent risk severity accuracy, Action effect accuracy, Activated risk accuracy<br>
+      • Benchmark Name: ASIMOV-2.0-Video, Data Number: 287, Evaluation Metric: Injury risk accuracy, Latent risk and severity accuracy, Last intervention timestamp MAE, Intervention rate<br>
+      • Benchmark Name: ASIMOV-2.0-Constraints, Data Number: 164, Evaluation Metric: Constraint violation rate<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>VideoJudge: Bootstrapping Enables Scalable Supervision of MLLM-as-a-Judge for Video Understanding</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Method Name: VideoJudge, Base Model: Qwen2.5-VL, Strategy: Generator-evaluator bootstrapping with iterative refinement and feedback<br>
+      • Benchmark Name: VideoJudgeLLaVA-MetaEval, Data Number: , Evaluation Metric: RMSE, MAE, Spearman, Pearson, ECE, PSup, Delta(C-D)<br>
+      • Benchmark Name: VideoJudgeVCG-MetaEval, Data Number: , Evaluation Metric: RMSE, MAE, Spearman, Pearson, ECE, PSup, Delta(C-D)<br>
+      • Benchmark Name: VideoJudge-Pairwise, Data Number: , Evaluation Metric: Accuracy<br>
+      • Benchmark Name: VideoJudge-Pairwise-H, Data Number: 200, Evaluation Metric: Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21113"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: HKUST (GZ)<br>
+      • Method Name: MOSS-ChatV, Base Model: Qwen2.5-7B, Strategy: GRPO<br>
+      • Benchmark Name: MOSS-Video, Data Number: 11654, Evaluation Metric: accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21100"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OpenGVLab/VideoChat-R1"><img src="https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: VTTS, Base Model: Qwen2.5-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VTTS-80K, Data Number: 80000, Evaluation Metric: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.21027"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/Keyworld-E43D"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Electronic Engineering, BNRist, Tsinghua University<br>
+      • Method Name: KeyWorld, Base Model: CogVideoX1.5-5B-I2V, Strategy: Diffusion Transformer fine-tuning with motion-aware key frame generation and interpolation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.20070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sites.google.com/andrew.cmu.edu/llm-trainer"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Carnegie Mellon University<br>
+      • Method Name: LLM Trainer, Base Model: , Strategy: Thompson Sampling for multi-armed bandit optimization of demonstration annotations<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19965"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://novicemm.github.io/synchrorama"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: IIT Ropar, India<br>
+      • Method Name: SynchroRaMa, Base Model: Stable Diffusion 1.5, Strategy: Diffusion-based generation with multi-modal emotion embedding and audio-to-motion alignment<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>When Words Can't Capture It All: Towards Video-Based User Complaint Text Generation with Multimodal Video Complaint Dataset</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19952"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sarmistha-D/CoD-V"><img src="https://img.shields.io/github/stars/sarmistha-D/CoD-V.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Indian Institute of Technology Patna<br>
+      • Benchmark Name: ComVID, Data Number: 1175, Evaluation Metric: CR score, BLEU, ROUGE, BERTScore, MoverScore, METEOR, Perplexity, Flesch Reading Ease, Coleman-Liau Index<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Talking Head Generation via AU-Guided Landmark Prediction</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19749"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stony Brook University<br>
+      • Method Name: Variational Motion Generator (VMG), Base Model: , Strategy: Conditional Variational Autoencoder with flow-based prior and dilated convolutional architecture<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19690"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/lynn-ling-lo/Prompt2Progression"><img src="https://img.shields.io/github/stars/lynn-ling-lo/Prompt2Progression.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: National Yang Ming Chiao Tung University<br>
+      • Benchmark Name: Controlled-Attribute-Transition Benchmark (CAT-Bench), Data Number: 120, Evaluation Metric: Wholistic Transition Score, Frame-wise Transition Score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19626"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ego-bridge.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Georgia Institute of Technology<br>
+      • Method Name: EgoBridge, Base Model: , Strategy: Optimal Transport (OT) with Dynamic Time Warping (DTW) cost function for domain adaptation between human and robot data<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.19002"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/nlp-waseda/VIR-Bench"><img src="https://img.shields.io/github/stars/nlp-waseda/VIR-Bench.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Waseda University<br>
+      • Benchmark Name: VIR-Bench, Data Number: 200, Evaluation Metric: F1 score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.18592"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vln-zero.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Texas at Austin<br>
+      • Method Name: VLN-Zero, Base Model: , Strategy: vision-language model guided exploration with neurosymbolic navigation, hierarchical caching, and constraint-satisfying action generation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.17941"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/ut-amrl/ComposableNav"><img src="https://img.shields.io/github/stars/ut-amrl/ComposableNav.svg?style=social&label=Star"></a><br>
+      <a href="https://amrl.cs.utexas.edu/ComposableNav"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science, The University of Texas at Austin<br>
+      • Method Name: ComposableNav, Base Model: , Strategy: Denoising Diffusion Policy Optimization (DDPO) and PPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>$\mathtt{M^3VIR}$: A Large-Scale Multi-Modality Multi-View Synthesized Benchmark Dataset for Image Restoration and Content Creation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.16873"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Santa Clara University<br>
+      • Benchmark Name: M3VIR, Data Number: 43200, Evaluation Metric: PSNR, SSIM, LPIPS, FID, DISTS<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.16611"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://video2bt.github.io/video2bt page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich, Germany<br>
+      • Method Name: Video-to-BT, Base Model: , Strategy: Behavior Tree-based execution with recovery mechanism<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.16560"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mlvlab/CaReDPO"><img src="https://img.shields.io/github/stars/mlvlab/CaReDPO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Korea University<br>
+      • Method Name: CaRe-DPO, Base Model: VideoChat-Flash-7B, Strategy: DG-DPO (Dual-Group Direct Preference Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.16500"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: SKL-IOTSC, Computer and Information Science, University of Macau<br>
+      • Method Name: RLGF, Base Model: , Strategy: Reinforcement Learning with Geometric Feedback (specifically using LoRA-based optimization with latent-space windowing and hierarchical geometric rewards)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.15492"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="BVS-Demo"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Australian National University<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.13903"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Intelligent Robotics Laboratory, Skolkovo Institute of Science and Technology (Skoltech), Bolshoy Boulevard 30, bld. 1, Moscow 121205, Russia<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>RewardDance: Reward Scaling in Visual Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.08826"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance Seed<br>
+      • Method Name: RewardDance, Base Model: InternVL, Strategy: ReFL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.08818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: New York University<br>
+      • Benchmark Name: GeneVA, Data Number: 16356, Evaluation Metric: Average Precision (AP) scores at various IoU thresholds<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.05314"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University<br>
+      • Method Name: ManipDreamer3D, Base Model: , Strategy: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.02807"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MSiam/PixFoundation-2.0.git"><img src="https://img.shields.io/github/stars/MSiam/PixFoundation-2.0.git.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: nan<br>
+      • Benchmark Name: MoCentric-Bench, Data Number: , Evaluation Metric: J (Region similarity), F (Contour accuracy), J&F (Average)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.00767"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://mael-zys.github.io/InterPose/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)<br>
+      • Benchmark Name: InterPose, Data Number: 73,814, Evaluation Metric: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.21112"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/eo-robotics"><img src="https://img.shields.io/github/stars/github.com/eo-robotics.svg?style=social&label=Star"></a><br>
+      <a href="https://eo-robotics.ai/eo-1"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai AI Laboratory<br>
+      • Method Name: EO-1, Base Model: Qwen2.5-VL, Strategy: flow matching denoising with auto-regressive decoding<br>
+      • Benchmark Name: EO-Bench, Data Number: 648, Evaluation Metric: completion score, accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Dress&Dance: Dress up and Dance as You Like It - Technical Preview</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.21070"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="immortalco.github.io/DressAndDance"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Illinois Urbana-Champaign<br>
+      • Method Name: Dress&Dance, Base Model: , Strategy: Diffusion-based video generation with CondNet conditioning network, multi-stage progressive training, and curriculum learning<br>
+      • Benchmark Name: Internet video dataset, Data Number: 80000, Evaluation Metric: PSNR, SSIM, LPIPS VGG, LPIPS AlexNet<br>
+      • Benchmark Name: Captured video dataset, Data Number: 18300, Evaluation Metric: PSNR, SSIM, LPIPS VGG, LPIPS AlexNet<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Droplet3D: Commonsense Priors from Videos Facilitate 3D Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.20470"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://dropletx.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: IEIT System Co., Ltd.<br>
+      • Method Name: GRPO, Base Model: , Strategy: Group Relative Policy Optimization (GRPO)<br>
+      • Benchmark Name: Droplet3D-4M, Data Number: 4 million, Evaluation Metric: PSNR, SSIM, LPIPS, MSE, CLIP-S<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.18463"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance"><img src="https://img.shields.io/github/stars/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh<br>
+      • Method Name: Context-Aware Zero-Shot Anomaly Detection, Base Model: , Strategy: Contrastive and Predictive Spatiotemporal Modeling with InfoNCE and CPC losses<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Text-Driven 3D Hand Motion Generation from Sign Language Data</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.15902"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://imagine.enpc.fr/~leore.bensabath/HandMDM"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: LIGM, École des Ponts, IP Paris, Univ Gustave Eiffel, CNRS<br>
+      • Method Name: HandMDM, Base Model: , Strategy: Diffusion models (not RL-based)<br>
+      • Benchmark Name: BOBSL3DT, Data Number: 1312339, Evaluation Metric: R@1, R@3, FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.15535"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://groupsketch.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beihang University<br>
+      • Method Name: GroupSketch, Base Model: , Strategy: Score Distillation Sampling (SDS)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>TPA: Temporal Prompt Alignment for Fetal Congenital Heart Defect Classification</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.15298"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/BioMedIA-MBZUAI/TPA"><img src="https://img.shields.io/github/stars/BioMedIA-MBZUAI/TPA.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Machine Learning, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)<br>
+      • Method Name: Temporal Prompt Alignment (TPA), Base Model: , Strategy: Contrastive Learning with Margin-Hinge Loss<br>
+      • Method Name: Conditional Variational Autoencoder Style Modulation (CVAESM), Base Model: , Strategy: KL Divergence Regularization<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Beyond Simple Edits: Composed Video Retrieval with Dense Modifications</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.14039"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/OmkarThawakar/BSE-CoVR"><img src="https://img.shields.io/github/stars/OmkarThawakar/BSE-CoVR.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Mohamed bin Zayed University of AI<br>
+      • Benchmark Name: Dense-WebVid-CoVR, Data Number: 1.6 million, Evaluation Metric: Recall@K<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.13186"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/MMBrowseComp/MM-BrowseComp"><img src="https://img.shields.io/github/stars/MMBrowseComp/MM-BrowseComp.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance<br>
+      • Benchmark Name: MM-BrowseComp, Data Number: 224, Evaluation Metric: Overall Accuracy (OA), Strict Accuracy (SA), Average Checklist Score (AVG CS)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.13073"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/JiuTian-VL/Large_VLM-based_VLA_for_Robotic_Manipulation"><img src="https://img.shields.io/github/stars/JiuTian-VL/Large_VLM-based_VLA_for_Robotic_Manipulation.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology (Shenzhen)<br>
+      • Paper Number: 244<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Express4D: Expressive, Friendly, and Extensible 4D Facial Motion Generation Benchmark</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.12438"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jaron1990.github.io/Express4D/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tel Aviv University<br>
+      • Benchmark Name: Express4D, Data Number: 1205, Evaluation Metric: FID, R-precision, Diversity, Multimodal Distance<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.12081"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/WalkerMitty/VimoRAG"><img src="https://img.shields.io/github/stars/WalkerMitty/VimoRAG.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology (Shenzhen)<br>
+      • Method Name: McDPO, Base Model: Phi3-3.8B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.11484"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://uknowsth.github.io/CineTrans/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: CineTrans, Base Model: , Strategy: Masked Diffusion with Attention Mechanism<br>
+      • Benchmark Name: Cine250K, Data Number: 250K, Evaluation Metric: Transition Control Score, Inter-shot Consistency, Intra-shot Consistency, Aesthetic Quality, Semantic Consistency<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.10858"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology<br>
+      • Method Name: PhysHPO, Base Model: CogVideoX-2B, CogVideoX-5B, HunyuanVideo-540p, Strategy: DPO (Direct Preference Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.09818"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science, AIUB, Dhaka, Bangladesh<br>
+      • Benchmark Name: ViMoNet-Bench, Data Number: , Evaluation Metric: GPT-3.5-turbo scoring (0-5)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Animate-X++: Universal Character Image Animation with Dynamic Backgrounds</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.09454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://lucaria-academy.github.io/Animate-X++/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Computing and Data Science, The University of Hong Kong<br>
+      • Method Name: Animate-X++, Base Model: WanX2.1, Strategy: Multi-task training with partial parameter training and pose transformation simulation<br>
+      • Benchmark Name: A2Bench, Data Number: 500, Evaluation Metric: PSNR, SSIM, L1, LPIPS, FID, FID-VID, FVD, CLIP Score, Background Consistency, Motion Smoothness, Aesthetic Quality, Image Quality<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Yan: Foundational Interactive Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.08601"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent<br>
+      • Method Name: Yan-Sim, Base Model: , Strategy: PPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.08550"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/CcQunResearch/SSPO"><img src="https://img.shields.io/github/stars/CcQunResearch/SSPO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba Digital Media and Entertainment Group<br>
+      • Method Name: SSPO (Segment Supervised Preference Optimization), Base Model: Llama3.1-8B-Chinese-Chat, GLM-4-9B-Chat, Qwen2.5-14B-Instruct, Strategy: DPO (Direct Preference Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>BigTokDetect: A Clinically-Informed Vision-Language Modeling Framework for Detecting Pro-Bigorexia Videos on TikTok</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.06515"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: USC Information Sciences Institute<br>
+      • Benchmark Name: BigTok, Data Number: 2210, Evaluation Metric: Accuracy, Precision, Recall, F1-score<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jul 2025</td>
     <td style="width: 70%;"><strong>EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation</strong></td>
 <td style="width: 15%;">
