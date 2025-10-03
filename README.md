@@ -23,6 +23,239 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>MultiModal Action Conditioned Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02287"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://people.csail.mit.edu/yichenl/projects/multimodalvideo/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MIT CSAIL<br>
+      • Method Name: MultiModal Action Conditioned Video Generation, Base Model: I2VGen, Strategy: Video diffusion model with multimodal action conditioning and feature regularization<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>MultiModal Action Conditioned Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02287"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://people.csail.mit.edu/yichenl/projects/multimodalvideo/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: MIT CSAIL<br>
+      • Method Name: MultiModal Action Conditioned Video Generation, Base Model: , Strategy: Latent space projection and regularization with diffusion-based video generation<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Self-Forcing++: Towards Minute-Scale High-Quality Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02283"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://self-forcing-plus-plus.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UCLA<br>
+      • Method Name: Self-Forcing++, Base Model: Wan2.1-T2V-1.3B, Strategy: GRPO (Group Relative Policy Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02282"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://VidGuard-R1.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Department of Computer Science, University of Texas at Austin, Austin, TX, USA<br>
+      • Method Name: VidGuard-R1, Base Model: Qwen2.5-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VidGuard-R1-CoT-30k, Data Number: 30000, Evaluation Metric: Top-1 accuracy<br>
+      • Benchmark Name: VidGuard-R1-RL-100k, Data Number: 100000, Evaluation Metric: Top-1 accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02271"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/DorothyDUUU/Info-Mosaic"><img src="https://img.shields.io/github/stars/DorothyDUUU/Info-Mosaic.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Benchmark Name: InfoMosaic-Bench, Data Number: 621, Evaluation Metric: Accuracy, Pass Rate<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Poolformer: Recurrent Networks with Pooling for Long-Sequence Modeling</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.02206"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: nan<br>
+      • Method Name: Poolformer, Base Model: , Strategy: Recurrent neural networks with pooling operations for long-sequence modeling<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01362"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/FELIXFENG2019/EvoStruggle"><img src="https://img.shields.io/github/stars/FELIXFENG2019/EvoStruggle.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Bristol<br>
+      • Benchmark Name: EvoStruggle, Data Number: 2793 videos, 5385 annotated temporal struggle segments, Evaluation Metric: mAP at different IoU thresholds (0.3, 0.5, 0.7)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>LVTINO: LAtent Video consisTency INverse sOlver for High Definition Video Restoration</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01339"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Laboratoire MAP5, UMR 8145, Université Paris Cité, CNRS<br>
+      • Method Name: LATINO, Base Model: , Strategy: Bayesian Langevin posterior sampling with Video Consistency Models (VCMs) and Image Consistency Models (ICMs)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>LVTINO: LAtent Video consisTency INverse sOlver for High Definition Video Restoration</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01339"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Laboratoire MAP5, UMR 8145, Université Paris Cité, CNRS<br>
+      • Method Name: LATINO, Base Model: , Strategy: Langevin posterior sampling with stochastic auto-encoder steps<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.01183"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Johns Hopkins University<br>
+      • Benchmark Name: Spatial360, Data Number: 58000+, Evaluation Metric: FVD, LMSE, LPIPS, PSNR, SSIM, MEt3R, AUC@30<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.26555"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://stable-cinemetrics.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Stability AI<br>
+      • Benchmark Name: StableCinemetrics, Data Number: 20K videos, Evaluation Metric: human evaluation (1-5 scale)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>How Far Do Time Series Foundation Models Paint the Landscape of Real-World Benchmarks ?</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.26347"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://anonymous.4open.science/r/benchmarking_nature_tsfm-D602"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Luxembourg<br>
+      • Benchmark Name: REAL-V-TSFM, Data Number: 6130, Evaluation Metric: MAPE, sMAPE, Agg. Relative WQL, Agg. Relative MASE<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.25773"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Benchmark Name: v-HUB, Data Number: 960, Evaluation Metric: BERTScore, SentBERT, METEOR<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Sep 2025</td>
     <td style="width: 70%;"><strong>Visual Jigsaw Post-Training Improves MLLMs</strong></td>
 <td style="width: 15%;">
