@@ -1016,6 +1016,40 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.06040"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Method Name: BranchGRPO, Base Model: Wan2.1-1.3B, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.05952"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: CreateAI (https://www.iamcreate.ai/)<br>
+      • Method Name: Coefficients-Preserving Sampling (CPS), Base Model: SD3.5-M, FLUX.1-schnell, FLUX.1-dev, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
     <td style="width: 70%;"><strong>ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
@@ -1046,6 +1080,26 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: nan<br>
       • Benchmark Name: MoCentric-Bench, Data Number: , Evaluation Metric: J (Region similarity), F (Contour accuracy), J&F (Average)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Sep 2025</td>
+    <td style="width: 70%;"><strong>FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2509.01232"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://fantasy-amap.github.io/fantasy-hsi/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: AMAP, Alibaba Group; Tsinghua University<br>
+      • Method Name: FantasyHSI, Base Model: Wan2.1-I2V-14B, Strategy: DPO<br>
+      • Benchmark Name: SceneBench, Data Number: 120, Evaluation Metric: Penetration Obstacle Score (POS), Reaction Divergence Score (RDS)<br>
     </td>
   </tr>
 
@@ -1127,6 +1181,24 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: IEIT System Co., Ltd.<br>
       • Method Name: GRPO, Base Model: , Strategy: Group Relative Policy Optimization (GRPO)<br>
       • Benchmark Name: Droplet3D-4M, Data Number: 4 million, Evaluation Metric: PSNR, SSIM, LPIPS, MSE, CLIP-S<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>InfinityHuman: Towards Long-Term Audio-Driven Human</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.20210"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://infinityhuman.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance<br>
+      • Method Name: InfinityHuman, Base Model: , Strategy: reward feedback learning<br>
     </td>
   </tr>
 
@@ -1225,6 +1297,26 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.13911"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://hihixiaolv.github.io/PhysGM.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Method Name: PhysGM, Base Model: , Strategy: DPO<br>
+      • Benchmark Name: PhysAssets Dataset, Data Number: 24000+, Evaluation Metric: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
     <td style="width: 70%;"><strong>MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
@@ -1317,6 +1409,26 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.11255"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://fantasy-amap.github.io/fantasy-talking2/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: AMAP, Alibaba Group<br>
+      • Method Name: Timestep-Layer adaptive multi-expert Preference Optimization (TLPO), Base Model: Wan2.1, Strategy: DPO<br>
+      • Benchmark Name: Talking-NSQ, Data Number: 410K, Evaluation Metric: Preference Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
     <td style="width: 70%;"><strong>Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
@@ -1329,6 +1441,23 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: The Hong Kong University of Science and Technology<br>
       • Method Name: PhysHPO, Base Model: CogVideoX-2B, CogVideoX-5B, HunyuanVideo-540p, Strategy: DPO (Direct Preference Optimization)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>Integrating Reinforcement Learning with Visual Generative Models: Foundations and Advances</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.10316"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Institute of Artificial Intelligence (TeleAI), China Telecom.<br>
+      • Paper Number: 164<br>
     </td>
   </tr>
 
@@ -1418,6 +1547,100 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: USC Information Sciences Institute<br>
       • Benchmark Name: BigTok, Data Number: 2210, Evaluation Metric: Accuracy, Precision, Recall, F1-score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.03254"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jiiiisoo.github.io/VIP.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Yonsei University<br>
+      • Method Name: ReDPO, Base Model: , Strategy: DPO<br>
+      • Method Name: V.I.P., Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.03254"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://jiiiisoo.github.io/VIP.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Yonsei University<br>
+      • Method Name: ReDPO, Base Model: None, Strategy: DPO<br>
+      • Method Name: V.I.P., Base Model: None, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>Controllable Video Generation: A Survey</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.16869"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><img src="https://img.shields.io/github/stars/mayuelala/Awesome-Controllable-Video-Generation.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology<br>
+      • Paper Number: 416<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>Controllable Video Generation: A Survey</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.16869"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><img src="https://img.shields.io/github/stars/mayuelala/Awesome-Controllable-Video-Generation.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The Hong Kong University of Science and Technology, Hong Kong SAR<br>
+      • Paper Number: 416<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jul 2025</td>
+    <td style="width: 70%;"><strong>Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2507.10293"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ip-fvr.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: IP-FVR, Base Model: , Strategy: identity-preserving feedback learning<br>
+      • Benchmark Name: YouRef, Data Number: , Evaluation Metric: PSNR, SSIM, LPIPS, CLIP-IQA, MUSIQ, LIQE, IDS, 𝐸𝑤𝑎𝑟𝑝, 𝜎𝐼𝐷𝑆<br>
     </td>
   </tr>
 
