@@ -1552,6 +1552,23 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Aug 2025</td>
+    <td style="width: 70%;"><strong>SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2508.06082"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: SwiftVideo, Base Model: Wan2.1-FUN-inp-480p-1.3B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Aug 2025</td>
     <td style="width: 70%;"><strong>V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
