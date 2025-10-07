@@ -24,6 +24,44 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>OpusAnimation: Code-Based Dynamic Chart Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.03341"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Opus AI Research, Brown University<br>
+      • Method Name: Joint-Code-Visual Reward based Group Relative Policy Optimization (JCVR-GRPO), Base Model: Qwen2.5-VL-3B, Strategy: GRPO<br>
+      • Benchmark Name: DCG-Bench, Data Number: 700, Evaluation Metric: Execution Pass Rate, QA-based Scores<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>OpusAnimation: Code-Based Dynamic Chart Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.03341"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Opus AI Research, Brown University<br>
+      • Method Name: JCVR-GRPO, Base Model: Qwen2.5-VL-3B, Strategy: GRPO<br>
+      • Benchmark Name: DCG-Bench, Data Number: 700, Evaluation Metric: Execution Pass Rate, QA-based Scores<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>MultiModal Action Conditioned Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
