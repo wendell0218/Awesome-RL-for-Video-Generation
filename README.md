@@ -24,6 +24,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.05571"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://evopresent.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of California, Santa Barbara<br>
+      • Method Name: PresAesth, Base Model: Qwen-2.5-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: EvoPresent Benchmark, Data Number: 650 papers, 2000 slide pairs, Evaluation Metric: Perplexity, ROUGE-L, Layout Balance, Aesthetic Scores, MAE, F1-score, Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>OpusAnimation: Code-Based Dynamic Chart Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
