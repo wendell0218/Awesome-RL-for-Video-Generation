@@ -24,6 +24,24 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.09036"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://xingyoujun.github.io/imowm/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University, Singapore<br>
+      • Method Name: iMoWM, Base Model: , Strategy: model-based RL with DrQ-v2<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>Real-Time Motion-Controllable Autoregressive Video Diffusion</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
