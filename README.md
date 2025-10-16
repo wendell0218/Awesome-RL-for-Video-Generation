@@ -24,6 +24,114 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.13809"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sihuiji.github.io/PhysMaster-Page/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: The University of Hong Kong<br>
+      • Method Name: PhysMaster, Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.13454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gohyojun15.github.io/VIST3A/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ETH Zurich<br>
+      • Method Name: VIST3A, Base Model: , Strategy: direct reward finetuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.13454"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://gohyojun15.github.io/VIST3A/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ETH Zurich<br>
+      • Method Name: VIST3A, Base Model: , Strategy: direct reward finetuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.12089"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://playmate111.github.io/Playmate2/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Guangzhou Quwan Network Technology<br>
+      • Method Name: Mask-CFG, Base Model: Wan2.1, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.10518"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/qunzhongwang/vr-thinker"><img src="https://img.shields.io/github/stars/qunzhongwang/vr-thinker.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: CUHK MMLab<br>
+      • Method Name: VR-Thinker, Base Model: Qwen2.5-VL-7B, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.10395"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://avocado-captioner.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Kling Team, Kuaishou Technology<br>
+      • Method Name: AVoCaDO GRPO, Base Model: Qwen2.5-Omni-7B, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
