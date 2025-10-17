@@ -24,6 +24,103 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>RealDPO: Real or Not Real, that is the Preference</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.14955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="Vchitect.github.io/RealDPO-Project"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Electronic Science and Technology of China<br>
+      • Method Name: RealDPO, Base Model: CogVideoX-5B, Strategy: DPO<br>
+      • Benchmark Name: RealAction-5K, Data Number: 5000, Evaluation Metric: Visual Alignment, Text Alignment, Motion Quality, Human Quality<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>RealDPO: Real or Not Real, that is the Preference</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.14955"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="Vchitect.github.io/RealDPO-Project"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Electronic Science and Technology of China<br>
+      • Method Name: RealDPO, Base Model: CogVideoX-5B, Strategy: DPO<br>
+      • Benchmark Name: RealAction-5K, Data Number: 5000, Evaluation Metric: Visual Alignment, Text Alignment, Motion Quality, Human Quality<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.14847"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: UCAS<br>
+      • Method Name: ImagerySearch, Base Model: Wan2.1, Strategy: adaptive test-time search strategy<br>
+      • Benchmark Name: LDT-Bench, Data Number: 2839, Evaluation Metric: ImageryQA<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.14256"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="Identity-GRPO"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Alibaba Group<br>
+      • Method Name: Identity-GRPO, Base Model: Qwen2.5-VL-3B, Strategy: GRPO<br>
+      • Benchmark Name: multi-human identity-preserving preference benchmark, Data Number: 500, Evaluation Metric: Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.14255"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://ipro-alimama.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Taobao & Tmall Group of Alibaba<br>
+      • Method Name: IPRO, Base Model: Wan 2.2 I2V, Strategy: reward-guided optimization with KL-divergence regularization and facial scoring mechanism<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
