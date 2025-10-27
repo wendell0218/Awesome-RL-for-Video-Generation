@@ -24,6 +24,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Epipolar Geometry Improves Video Generation Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.21615"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://epipolar-dpo.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Oxford<br>
+      • Method Name: Epipolar-DPO, Base Model: Wan-2.1, Strategy: DPO<br>
+      • Benchmark Name: large dataset of over 162,000 generated videos annotated with 3D scene consistency metrics, Data Number: 162000, Evaluation Metric: Sampson epipolar error<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>RealDPO: Real or Not Real, that is the Preference</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
