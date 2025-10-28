@@ -24,6 +24,85 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.23451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HongbangYuan/OmniReward"><img src="https://img.shields.io/github/stars/HongbangYuan/OmniReward.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Artificial Intelligence, University of Chinese Academy of Sciences<br>
+      • Method Name: Omni-RewardModel-BT, Base Model: MiniCPM-o-2.6, Strategy: Bradley-Terry<br>
+      • Method Name: Omni-RewardModel-R1, Base Model: Qwen2.5-VL-7B-Instruct, Strategy: GRPO-based reinforcement learning<br>
+      • Benchmark Name: Omni-RewardBench, Data Number: 3725, Evaluation Metric: accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.23451"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/HongbangYuan/OmniReward"><img src="https://img.shields.io/github/stars/HongbangYuan/OmniReward.svg?style=social&label=Star"></a><br>
+      <a href="https://hf.co/datasets/HongbangYuan/OmniRewardBench"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: School of Artificial Intelligence, University of Chinese Academy of Sciences<br>
+      • Method Name: Omni-RewardModel-BT, Base Model: MiniCPM-o-2.6, Strategy: Bradley-Terry<br>
+      • Method Name: Omni-RewardModel-R1, Base Model: Qwen2.5-VL-7B-Instruct, Strategy: GRPO<br>
+      • Benchmark Name: Omni-RewardBench, Data Number: 3725, Evaluation Metric: accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>LongCat-Video Technical Report</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.22200"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/meituan-longcat/LongCat-Video"><img src="https://img.shields.io/github/stars/meituan-longcat/LongCat-Video.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Method Name: LongCat-Video, Base Model: , Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>LongCat-Video Technical Report</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.22200"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/meituan-longcat/LongCat-Video"><img src="https://img.shields.io/github/stars/meituan-longcat/LongCat-Video.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meituan<br>
+      • Method Name: LongCat-Video, Base Model: WAN2.1 VAE, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>Epipolar Geometry Improves Video Generation Models</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
