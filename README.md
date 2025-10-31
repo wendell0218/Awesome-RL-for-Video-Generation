@@ -24,6 +24,25 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
+    <td style="width: 70%;"><strong>Emu3.5: Native Multimodal Models are World Learners</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2510.26583"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/baaivision/Emu3.5"><img src="https://img.shields.io/github/stars/baaivision/Emu3.5.svg?style=social&label=Star"></a><br>
+      <a href="https://emu.world"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: BAAI<br>
+      • Method Name: Discrete Diffusion Adaptation, Base Model: Qwen3, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
