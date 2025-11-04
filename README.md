@@ -23,6 +23,117 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.01450"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance<br>
+      • Method Name: Reg-DPO, Base Model: Wan2.1-I2V-14B-720P, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>CueBench: Advancing Unified Understanding of Context-Aware Video Anomalies in Real-World</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.00613"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Mia-YatingYu/Cue-R1"><img src="https://img.shields.io/github/stars/Mia-YatingYu/Cue-R1.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northwestern Polytechnical University, Xi’an Shaanxi, 710129, China<br>
+      • Method Name: CUE-R1, Base Model: Qwen2.5-VL-3B, Strategy: GRPO<br>
+      • Benchmark Name: CUEBENCH, Data Number: 2950, Evaluation Metric: hierarchy score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.00511"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Method Name: ID-COMPOSER, Base Model: Wan-Video-1.3B, Strategy: Flow-GRPO<br>
+      • Benchmark Name: OpenS2V-Nexus, Data Number: 218230, Evaluation Metric: NexusScore<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.00511"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Peking University<br>
+      • Method Name: ID-COMPOSER, Base Model: Wan-Video-1.3B, Strategy: Flow-GRPO<br>
+      • Benchmark Name: OpenS2V-Nexus, Data Number: 218230, Evaluation Metric: NexusScore<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>World Simulation with Video Foundation Models for Physical AI</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.00062"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/nvidia-cosmos/cosmos-predict2.5"><img src="https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: NVIDIA<br>
+      • Method Name: Cosmos-Predict2.5, Base Model: Cosmos-Reason1, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>World Simulation with Video Foundation Models for Physical AI</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.00062"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/nvidia-cosmos/cosmos-predict2.5"><img src="https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: NVIDIA<br>
+      • Method Name: Cosmos-Predict2.5, Base Model: Cosmos-Reason1, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Oct 2025</td>
     <td style="width: 70%;"><strong>Emu3.5: Native Multimodal Models are World Learners</strong></td>
 <td style="width: 15%;">
