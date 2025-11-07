@@ -24,6 +24,43 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.03997"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Method Name: PhysCorr, Base Model: , Strategy: DPO<br>
+      • Method Name: PhyDPO, Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.03997"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Beijing Institute of Technology<br>
+      • Method Name: PhysCorr, Base Model: , Strategy: DPO<br>
+      • Method Name: PhysicsRM, Base Model: LLaVA-Video-Qwen2-7B, Strategy: supervised learning with Huber loss<br>
+      • Method Name: PhyDPO, Base Model: , Strategy: reweighted DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
     <td style="width: 70%;"><strong>Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
