@@ -23,6 +23,179 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.24551"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://caiyuanhao1998.github.io/project/PhyGDPO"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Meta Superintelligence Labs<br>
+      • Method Name: PhyGDPO, Base Model: Wan2.1-T2V-14B, Strategy: DPO<br>
+      • Benchmark Name: PhyVidGen-135K, Data Number: 135K, Evaluation Metric: <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.22170"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Huazhong University of Science and Technology<br>
+      • Method Name: SoliReward, Base Model: HunyuanVideo, Strategy: GRPO<br>
+      • Method Name: SoliReward, Base Model: HunyuanVideo, Strategy: DPO<br>
+      • Benchmark Name: subject deformity and physical plausibility benchmark, Data Number: 50000, Evaluation Metric: RM Accuracy<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.21252"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://dreamontage.github.io/DreaMontage"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance<br>
+      • Method Name: DreaMontage, Base Model: Seedance 1.0, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.16906"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://viva-paper.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Brown University<br>
+      • Method Name: VIVA, Base Model: HunyuanVideo-T2V-13B, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>Kling-Omni Technical Report</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.16776"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://app.klingai.com/global/omni/new"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Kuaishou Technology<br>
+      • Method Name: Kling-Omni, Base Model: , Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>What Happens Next? Next Scene Prediction with a Unified Video Model</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.13015"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://nextsceneprediction.github.io/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Pennsylvania State University<br>
+      • Method Name: unified video model, Base Model: Qwen-VL, LTX, Strategy: GRPO<br>
+      • Benchmark Name: NSP dataset, Data Number: 0.97M samples for SFT, 8K samples for RL, 1K samples for test, Evaluation Metric: causal consistency<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.01843"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Zeqing-Wang/PhyDetEx"><img src="https://img.shields.io/github/stars/Zeqing-Wang/PhyDetEx.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Sun Yat-sen University<br>
+      • Method Name: Physical-Aware DPO, Base Model: WanX2.1 1.3B, Strategy: DPO<br>
+      • Benchmark Name: PID (Physical Implausibility Detection) dataset, Data Number: 3088, Evaluation Metric: F1 Score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>McSc: Motion-Corrective Preference Alignment for Video Generation with Self-Critic Hierarchical Reasoning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.22974"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://qiushiyang.github.io/McSc/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tongyi Lab, Alibaba Group<br>
+      • Method Name: McSc, Base Model: Qwen2-VL-7B-Instruct, Strategy: GRPO<br>
+      • Method Name: McDPO, Base Model: Wan2.1-T2V-1.3B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.20647"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://diverse-video.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Virginia Tech<br>
+      • Method Name: DPP-GRPO, Base Model: Qwen2-7b-Instruct, Strategy: GRPO<br>
+      • Benchmark Name: diverse video-prompt dataset, Data Number: 30,000, Evaluation Metric: TIE, TCE, CLIP<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Nov 2025</td>
     <td style="width: 70%;"><strong>PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection</strong></td>
 <td style="width: 15%;">
