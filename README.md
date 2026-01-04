@@ -138,6 +138,27 @@ We are committed to offering researchers the latest advancements in the field. B
 
   <tr>
     <td rowspan="2" style="width: 15%;">Dec 2025</td>
+    <td style="width: 70%;"><strong>OmniPerson: Unified Identity-Preserving Pedestrian Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2512.02554"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Dec 2025</td>
     <td style="width: 70%;"><strong>PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
@@ -192,6 +213,24 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: Virginia Tech<br>
       • Method Name: DPP-GRPO, Base Model: Qwen2-7b-Instruct, Strategy: GRPO<br>
       • Benchmark Name: diverse video-prompt dataset, Data Number: 30,000, Evaluation Metric: TIE, TCE, CLIP<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Nov 2025</td>
+    <td style="width: 70%;"><strong>Growing with the Generator: Self-paced GRPO for Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2511.19356"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Method Name: Self-Paced GRPO, Base Model: Wan2.1-T2V, Strategy: GRPO<br>
+      • Method Name: Self-Paced GRPO, Base Model: HunyuanVideo, Strategy: GRPO<br>
     </td>
   </tr>
 
