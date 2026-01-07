@@ -23,6 +23,42 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>A Versatile Multimodal Agent for Multimedia Content Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.03250"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Rochester<br>
+      • Method Name: MultiMedia-Agent, Base Model: MiniCPM-V2, Strategy: DPO<br>
+      • Benchmark Name: 18 real world task types, Data Number: 1260, Evaluation Metric: Dover Score, Pick Score, Human Alignment, Aesthetic Score, Psychological Appealing, Audio Video Alignment<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>A Versatile Multimodal Agent for Multimedia Content Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.03250"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Rochester<br>
+      • Method Name: MultiMedia-Agent, Base Model: Minicpm-v2, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Dec 2025</td>
     <td style="width: 70%;"><strong>PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation</strong></td>
 <td style="width: 15%;">
