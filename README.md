@@ -24,6 +24,116 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04153"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northeastern University<br>
+      • Method Name: Diffusion-DRF, Base Model: Wan2.1-1.3B-T2V, Strategy: Differentiable Reward Fine-tuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04153"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northeastern University<br>
+      • Method Name: Diffusion-DRF, Base Model: Wan2.1-1.3B-T2V, Strategy: Differentiable Reward Fine-tuning<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04068"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology<br>
+      • Method Name: LocalDPO, Base Model: Wan2.1-1.3B, Strategy: DPO<br>
+      • Method Name: LocalDPO, Base Model: CogVideoX-2B, Strategy: DPO<br>
+      • Method Name: LocalDPO, Base Model: CogVideoX-5B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04068"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Harbin Institute of Technology<br>
+      • Method Name: LocalDPO, Base Model: Wan2.1-1.3B, Strategy: DPO<br>
+      • Method Name: LocalDPO, Base Model: CogVideoX-2B, Strategy: DPO<br>
+      • Method Name: LocalDPO, Base Model: CogVideoX-5B, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Thinking with Frames: Generative Video Distortion Evaluation via Frame Reward Model</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04033"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Method Name: REACT, Base Model: Qwen2.5-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: REACT-Bench, Data Number: 2600, Evaluation Metric: F1-score<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>Thinking with Frames: Generative Video Distortion Evaluation via Frame Reward Model</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.04033"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Science and Technology of China<br>
+      • Method Name: REACT, Base Model: Qwen2.5-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: REACT-Bench, Data Number: 2600, Evaluation Metric: Accuracy, F1-score, Precision, Recall<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 70%;"><strong>A Versatile Multimodal Agent for Multimedia Content Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
