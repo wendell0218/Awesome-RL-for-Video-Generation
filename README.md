@@ -24,6 +24,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.11087"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://lucaria-academy.github.io/PhysRVG/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: PhysRVG, Base Model: Wan2.2 5B, Strategy: GRPO<br>
+      • Benchmark Name: PhysRVGBench, Data Number: 700, Evaluation Metric: Intersection over Union (IoU), Trajectory Offset (TO)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 70%;"><strong>TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
