@@ -24,6 +24,64 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.17737"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/Tencent/digitalhuman/tree/main/ScriptAgent"><img src="https://img.shields.io/github/stars/main/ScriptAgent.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tencent Hunyuan Multimodal Department<br>
+      • Method Name: ScripterAgent, Base Model: Qwen-Omni-7B, Strategy: GRPO<br>
+      • Benchmark Name: ScriptBench, Data Number: 1750, Evaluation Metric: Visual-Script Alignment (VSA)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>SkyReels-V3 Technique Report</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.17323"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
+    <td style="width: 70%;"><strong>A Mechanistic View on Video Generation as World Models: State and Dynamics</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2601.17067"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Hong Kong University of Science and Technology (Guangzhou)<br>
+      • Paper Number: 188<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 70%;"><strong>From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
