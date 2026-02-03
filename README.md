@@ -23,6 +23,79 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>Unified Personalized Reward Model for Vision Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02380"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://codegoat24.github.io/UnifiedReward/flex"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: UnifiedReward-Flex, Base Model: Wan2.1-T2V-14B, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.02092"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://kingofprank.github.io/fsvideo/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: ByteDance<br>
+      • Method Name: FSVideo, Base Model: Wan2.1-14B-I2V, Strategy: GRPO<br>
+      • Method Name: FSVideo, Base Model: Wan2.1-14B-I2V, Strategy: ReFL<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft<br>
+      • Method Name: PISCES, Base Model: HunyuanVideo, Strategy: GRPO<br>
+      • Method Name: PISCES, Base Model: VideoCrafter2, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.01624"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Microsoft<br>
+      • Method Name: PISCES, Base Model: HunyuanVideo, Strategy: GRPO<br>
+      • Method Name: PISCES, Base Model: VideoCrafter2, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Jan 2026</td>
     <td style="width: 70%;"><strong>SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation</strong></td>
 <td style="width: 15%;">
