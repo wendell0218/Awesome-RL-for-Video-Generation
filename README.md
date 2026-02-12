@@ -24,6 +24,132 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>Smaller is Better: Generative Models Can Power Short Video Preloading</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.09484"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>SemanticMoments: Training-Free Motion Similarity via Third Moment Features</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.09146"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.08996"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>EgoAVU: Egocentric Audio-Visual Understanding</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.06139"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>Euphonium: Steering Video Flow Matching via Process Reward Gradient Guided Stochastic Dynamics</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.04928"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.03342"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 70%;"><strong>Unified Personalized Reward Model for Vision Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
