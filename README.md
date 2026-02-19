@@ -24,6 +24,23 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.13669"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Ant Group<br>
+      • Method Name: EchoTorrent, Base Model: InfiniteTalk, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 70%;"><strong>ReTracing: An Archaeological Approach Through Body, Machine, and Generative Systems</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
