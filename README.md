@@ -24,6 +24,99 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>The Trinity of Consistency as a Defining Principle for General World Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.23152"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: University of Chinese Academy of Sciences<br>
+      • Benchmark Name: CoW-Bench, Data Number: 1485, Evaluation Metric: 0–2 scale<br>
+      • Paper Number: 516<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.22745"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University<br>
+      • Method Name: SPATIALALIGN, Base Model: Wan2.1-1.3B, Strategy: DPO<br>
+      • Benchmark Name: DSR-DATASET, Data Number: 620, Evaluation Metric: DSR-SCORE, Correctness@0.7, ID Consistency, CLIP-IQA, Imaging Quality<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.22745"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nanyang Technological University<br>
+      • Method Name: SPATIALALIGN, Base Model: Wan2.1-1.3B, Strategy: DPO<br>
+      • Benchmark Name: DSR-DATASET, Data Number: 620, Evaluation Metric: DSR-SCORE<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.19163"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://JavisVerse.github.io/JavisDiT2-page"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: JavisDiT++, Base Model: Wan2.1-1.3B-T2V, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
+    <td style="width: 70%;"><strong>JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2602.19163"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://JavisVerse.github.io/JavisDiT2-page"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: JavisDiT++, Base Model: Wan2.1-1.3B-T2V, Strategy: DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 70%;"><strong>EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
