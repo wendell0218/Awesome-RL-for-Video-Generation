@@ -23,6 +23,100 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.03505"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northwestern University<br>
+      • Method Name: PhyPrompt, Base Model: Qwen2.5, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.03505"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northwestern University<br>
+      • Method Name: PhyPrompt, Base Model: Qwen2.5-Instruct, Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.03485"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://sensational-brioche-7657e7.netlify.app/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Northwestern University<br>
+      • Method Name: Phys4D, Base Model: WAN2.2-5b, Strategy: PPO<br>
+      • Method Name: Phys4D, Base Model: CogVideoX-5b, Strategy: PPO<br>
+      • Method Name: Phys4D, Base Model: Open-Sora V1.2, Strategy: PPO<br>
+      • Benchmark Name: 4D world consistency evaluation, Data Number: , Evaluation Metric: 4D Chamfer Distance, Worldline L2 Error, Mean Drift, Final Drift, Fail Rate, Trajectory Length, Novel-Time Depth Err, Novel-Time Warp Err<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>StepVAR: Structure-Texture Guided Pruning for Visual Autoregressive Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.01757"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/showlab/assistgui"><img src="https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star"></a><br>
+      <a href="https://showlab.github.io/assistgui/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: RL-Video-Gen, Base Model: Qwen2-VL-7B, Strategy: GRPO<br>
+      • Benchmark Name: VideoGenBench, Data Number: 5000, Evaluation Metric: FID<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.00159"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Johns Hopkins University<br>
+      • Method Name: FlowPortrait, Base Model: , Strategy: GRPO<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Feb 2026</td>
     <td style="width: 70%;"><strong>The Trinity of Consistency as a Defining Principle for General World Models</strong></td>
 <td style="width: 15%;">
