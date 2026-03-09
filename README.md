@@ -24,6 +24,25 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.06140"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: HKUST<br>
+      • Method Name: Place-it-R1, Base Model: Qwen-VL 2.5-7B, WAN 1.3B, Strategy: DPO<br>
+      • Benchmark Name: FlexInsert, Data Number: 100, Evaluation Metric: CLIP-I, DINO-I, Smoothness, Aesthetics, PC, PR, PP<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
