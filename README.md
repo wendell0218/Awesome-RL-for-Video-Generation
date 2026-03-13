@@ -24,6 +24,64 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.12257"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://dreamvideo-omni.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: DreamVideo-Omni, Base Model: Wan2.1-1.3B T2V, Strategy: Reward Feedback Learning<br>
+      • Benchmark Name: DreamOmni Bench, Data Number: 1027, Evaluation Metric: ['CLIP-T', 'R-CLIP', 'R-DINO', 'Face-S', 'mIoU', 'EPE']<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>Risk-Controllable Multi-View Diffusion for Driving Scenario Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.11534"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/venshow-w/RiskMV-DPO"><img src="https://img.shields.io/github/stars/venshow-w/RiskMV-DPO.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Tsinghua University<br>
+      • Method Name: RiskMV-DPO, Base Model: , Strategy: RA-DPO<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.08403"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: SPIRAL, Base Model: Qwen3-VL-8B, Strategy: GRPO<br>
+      • Method Name: SPIRAL, Base Model: Qwen3-VL-8B, Strategy: DPO<br>
+      • Benchmark Name: ActWM-Bench, Data Number: 300, Evaluation Metric: Action Completeness, Motion Smoothness, Object Interaction, Physical Fidelity<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>Advances in GRPO for Generation Models: A Survey</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
