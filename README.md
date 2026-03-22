@@ -24,6 +24,26 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.16271"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://vigor-geometry-reward.site/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Nankai University<br>
+      • Method Name: VIGOR, Base Model: Wan2.1-T2V-1.3B, Strategy: DPO<br>
+      • Benchmark Name: GB3DV-25k, Data Number: 25,600, Evaluation Metric: PSNR, SSIM, LPIPS, EPI, RPX, RPT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>LICA: Layered Image Composition Annotations for Graphic Design Research</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
