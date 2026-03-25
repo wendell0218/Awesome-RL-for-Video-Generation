@@ -24,6 +24,27 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.23376"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/github/stars/amap-cvlab/ABot-PhysWorld.svg?style=social&label=Star"></a><br>
+      <a href="https://github.com/amap-cvlab/ABot-PhysWorld"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: AMAP CV Lab, Alibaba Group<br>
+      • Method Name: ABot-PhysWorld, Base Model: Wan2.1-I2V-14B, Strategy: DPO<br>
+      • Benchmark Name: EZSbench, Data Number: , Evaluation Metric: Physical Score (Sv)<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>Manifold-Aware Exploration for Reinforcement Learning in Video Generation</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
