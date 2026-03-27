@@ -24,6 +24,44 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.25685"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://www.jaibardhan.com/persistworld"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br>
+      • Method Name: PersistWorld, Base Model: Ctrl-World, Strategy: DiffusionNFT<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.25188"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://johnneywang.github.io/AnyID-webpage"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Xi’an Jiaotong University<br>
+      • Method Name: AnyID, Base Model: Wan-5B, Strategy: DPO<br>
+      • Benchmark Name: AnyID Benchmark, Data Number: 50 reference sets, 100 prompts, Evaluation Metric: Holi-Arc, Holi-Cur, Ele-CLIP, Ele-DINO, App., Mot., Bg., Sta., Dyn.<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
