@@ -23,6 +23,44 @@ We are committed to offering researchers the latest advancements in the field. B
     <td><strong>Available Link</strong></td>
   </tr>
   <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>Evolution of Video Generative Foundations</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.06339"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://github.com/sjtuplayer/Awesome-Video-Foundations"><img src="https://img.shields.io/github/stars/sjtuplayer/Awesome-Video-Foundations.svg?style=social&label=Star"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai Jiao Tong University<br>
+      • Paper Number: 301<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.02467"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="http://vertigo.magic-lab.tech/"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Shanghai University<br>
+      • Method Name: VERTIGO, Base Model: Qwen 2.5-VL, Strategy: DPO<br>
+      • Benchmark Name: LenScript, Data Number: 120000, Evaluation Metric: FCD, CS, Precision, Recall, Density, Coverage, Missing Rate, Consistency, Aesthetic<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2" style="width: 15%;">Mar 2026</td>
     <td style="width: 70%;"><strong>Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning</strong></td>
 <td style="width: 15%;">
