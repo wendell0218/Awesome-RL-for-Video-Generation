@@ -24,6 +24,46 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>LPM 1.0: Video-based Character Performance Model</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.07823"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="https://large-performance-model.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: International Digital Economy Academy<br>
+      • Method Name: LPM 1.0, Base Model: Wan2.1-I2V (16B), Strategy: DPO<br>
+      • Benchmark Name: LPM-Bench, Data Number: 1000, Evaluation Metric: Motion Dynamics, Identity Consistency, Text Controllability, Audio-Video Synchronization<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>LPM 1.0: Video-based Character Performance Model</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+      <a><img src="https://img.shields.io/badge/Benchmark-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.07823"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+      <a href="large-performance-model.github.io"><img src="https://img.shields.io/badge/Website-9cf"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Not specified<br>
+      • Method Name: LPM 1.0, Base Model: Wan2.1-I2V (16B), Strategy: DPO<br>
+      • Benchmark Name: LPM-Bench, Data Number: 1000, Evaluation Metric: Good/Same/Bad (GSB), Likert scale<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
     <td style="width: 70%;"><strong>Evolution of Video Generative Foundations</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Survey-blue"></a><br>
@@ -37,6 +77,23 @@ We are committed to offering researchers the latest advancements in the field. B
     <td colspan="4">
       • Affiliation: Shanghai Jiao Tong University<br>
       • Paper Number: 301<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.04142"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Zhejiang University<br>
+      • Method Name: OP-GRPO, Base Model: Wan2.1-1.4B, Strategy: GRPO<br>
     </td>
   </tr>
 
@@ -57,6 +114,23 @@ We are committed to offering researchers the latest advancements in the field. B
       • Affiliation: Shanghai University<br>
       • Method Name: VERTIGO, Base Model: Qwen 2.5-VL, Strategy: DPO<br>
       • Benchmark Name: LenScript, Data Number: 120000, Evaluation Metric: FCD, CS, Precision, Recall, Density, Coverage, Missing Rate, Consistency, Aesthetic<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Mar 2026</td>
+    <td style="width: 70%;"><strong>Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2603.27866"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Iowa State University<br>
+      • Method Name: Wan-R1, Base Model: Wan2.2-TI2V-5B, Strategy: GRPO<br>
     </td>
   </tr>
 
