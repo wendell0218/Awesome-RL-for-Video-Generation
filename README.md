@@ -24,6 +24,40 @@ We are committed to offering researchers the latest advancements in the field. B
   </tr>
   <tr>
     <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>ARGen: Affect-Reinforced Generative Augmentation towards Vision-based Dynamic Emotion Perception</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12255"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: ARGen, Base Model: Qwen2.5-7B-VL, Strategy: policy gradient method<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
+    <td style="width: 70%;"><strong>ARGen: Affect-Reinforced Generative Augmentation towards Vision-based Dynamic Emotion Perception</strong></td>
+<td style="width: 15%;">
+      <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
+    </td>
+    <td style="width: 15%;">
+      <a href="http://arxiv.org/pdf/2604.12255"><img src="https://img.shields.io/badge/Paper-red"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      • Affiliation: Fudan University<br>
+      • Method Name: ARGen, Base Model: ModelScopeT2V, Strategy: Policy Gradient<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" style="width: 15%;">Apr 2026</td>
     <td style="width: 70%;"><strong>LPM 1.0: Video-based Character Performance Model</strong></td>
 <td style="width: 15%;">
       <a><img src="https://img.shields.io/badge/Method-blue"></a><br>
