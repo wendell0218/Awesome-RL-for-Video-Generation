@@ -9,6 +9,15 @@ Welcome to the GitHub repository for **Awesome-RL-for-Video-Generation**! This r
 - **[February 14, 2025]** We have developed an agent that automatically collects and analyzes the latest papers in the RL-based Video Generation field. It will update the [Related Papers](#-related-papers) daily at 1:00 AM UTC+8.
 
 
+## 🛠️ Libraries and Tools
+
++ [VeRL-Omni: Easy, Fast, and Stable RL Training for Diffusion and Omni-Modality Models](https://github.com/verl-project/verl-omni) (Apr. 2026)
+  [![Star](https://img.shields.io/github/stars/verl-project/verl-omni.svg?style=social&label=Star)](https://github.com/verl-project/verl-omni)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://verl-omni.readthedocs.io/en/latest/index.html)
+
+  Open-source multimodal RL training framework (built on [verl](https://github.com/verl-project/verl)) with support for video generation RL (e.g., Wan2.2 with DanceGRPO/FlowGRPO-style recipes), diffusion image models, and omni-modality models.
+
+
 ## 🔍 Related Papers
 
 We are committed to offering researchers the latest advancements in the field. By regularly reviewing and evaluating recent research studies, we ensure that the list of papers stays up-to-date.
